@@ -2,3 +2,11 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
     text-align: center;
 }
+#timeOfDay {
+    text-align: center;
+    padding: 10px;
+}
+#saveUserInput {
+    box-align: center;
+    padding: 10px;
+}
