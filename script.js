@@ -1,7 +1,7 @@
 //This will be the moment.js function
 $(document).ready(function () {
     console.log(moment()); //testing
-    $("#currentDay").text(moment().format('dddd') + ", " + moment().format('LL'));
+    $("#currentDay").text(moment().format('dddd') + ", " + moment().format('LLL'));
 }) 
 
 //Saving information when save button is clicked- One for each hour. text id 
