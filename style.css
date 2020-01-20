@@ -10,7 +10,18 @@ body {
     box-align: center;
     padding: 10px;
 }
+/*Past Present and Future Time blocks */
+.past {
+    background-color: yellow;
+}
 
+.present {
+    background-color: green;
+}
+
+.future {
+    background-color: thistle;
+}
 footer {
     padding: 10px;
 }
