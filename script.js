@@ -77,7 +77,7 @@ $("#saveButtonFivePM").click(function () {
     console.log(value);
     localStorage.setItem(time, value);
 })
-
+// function for timeblocks color code
 function hourChecker() {
     var currentHour = moment().hours();
     console.log(currentHour);

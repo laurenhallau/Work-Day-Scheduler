@@ -7,16 +7,16 @@ body {
     padding: 10px;
 }
 #saveUserInput {
-    box-align: center;
+    align-items: left;
     padding: 10px;
 }
 /*Past Present and Future Time blocks */
 .past {
-    background-color: yellow;
+    background-color: lightgray;
 }
 
 .present {
-    background-color: green;
+    background-color: lightgreen;
 }
 
 .future {
