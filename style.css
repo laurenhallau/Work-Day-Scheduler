@@ -2,6 +2,9 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
     text-align: center;
 }
+.userInput {
+    width: 100%;
+}
 #timeOfDay {
     text-align: center;
     padding: 10px;
